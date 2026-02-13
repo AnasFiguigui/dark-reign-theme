@@ -1,9 +1,9 @@
 {
-  "name": "github-vscode-theme",
-  "displayName": "GitHub Theme",
+  "name": "my-own-modified-github-vscode-theme",
+  "displayName": "GitHub Anas Theme",
   "description": "GitHub theme for VS Code",
   "version": "6.3.5",
-  "publisher": "GitHub",
+  "publisher": "AnasFiguigui",
   "license": "MIT",
   "icon": "icon.png",
   "galleryBanner": {
