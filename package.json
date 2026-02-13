@@ -27,14 +27,16 @@
     "theme",
     "github",
     "dark",
-    "reign"
+    "reign",
+    "night",
+    "vscode"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "GitHub Dark Anas",
+        "label": "Dark Reign",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-anas.json"
+        "path": "./themes/dark-reign.json"
       }
     ]
   },
