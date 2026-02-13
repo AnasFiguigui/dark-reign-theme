@@ -31,6 +31,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "GitHub Dark Anas",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-anas.json"
+      },
+      {
         "label": "GitHub Dark Default",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-default.json"
@@ -54,11 +59,6 @@
         "label": "GitHub Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
-      },
-      {
-        "label": "GitHub Dark Anas",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-anas.json"
       }
     ]
   },
@@ -74,7 +74,7 @@
   "scripts": {
     "start": "nodemon --watch src src/index.js",
     "build": "node src/index.js && mkdir -p build",
-    "package": "vsce package -o ./build/github-vscode-theme.vsix",
+    "package": "vsce package -o ./build/anas-github-vscode-theme.vsix",
     "prepublishOnly": "npm run build && vsce publish",
     "release": "changeset publish"
   },
