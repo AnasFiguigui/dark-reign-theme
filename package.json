@@ -1,8 +1,8 @@
 {
-  "name": "my-own-modified-github-vscode-theme",
-  "displayName": "GitHub Anas Theme",
-  "description": "GitHub theme for VS Code",
-  "version": "1.3.5",
+  "name": "dark-reign-theme",
+  "displayName": "Dark Reign Theme",
+  "description": "Dark Reign theme for VS Code",
+  "version": "1.0.1",
   "publisher": "AnasFiguigui",
   "license": "MIT",
   "icon": "icon.png",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/primer/github-vscode-theme"
+    "url": "https://github.com/AnasFiguigui/dark-reign-theme"
   },
   "bugs": {
-    "url": "https://github.com/primer/github-vscode-theme/issues"
+    "url": "https://github.com/AnasFiguigui/dark-reign-theme/issues"
   },
   "engines": {
     "vscode": "^1.0.0"
@@ -26,7 +26,8 @@
   "keywords": [
     "theme",
     "github",
-    "light"
+    "dark",
+    "reign"
   ],
   "contributes": {
     "themes": [
@@ -55,7 +56,7 @@
   },
   "__metadata": {
     "id": "7328a705-91fc-49e6-8293-da6f112e482d",
-    "publisherDisplayName": "GitHub",
+    "publisherDisplayName": "Anas Figuigui",
     "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002"
   },
   "publishConfig": {
