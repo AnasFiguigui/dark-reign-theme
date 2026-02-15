@@ -2,7 +2,7 @@
   "name": "dark-reign-theme",
   "displayName": "Dark Reign Theme",
   "description": "Dark Reign theme for VS Code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "AnasFiguigui",
   "license": "MIT",
   "icon": "icon.png",
@@ -18,7 +18,7 @@
     "url": "https://github.com/AnasFiguigui/dark-reign-theme/issues"
   },
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
@@ -29,7 +29,9 @@
     "dark",
     "reign",
     "night",
-    "vscode"
+    "vscode",
+    "inferno",
+    "void"
   ],
   "contributes": {
     "themes": [
@@ -41,11 +43,11 @@
       {
         "label": "Dark Reign Indigo",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-reign-indigo.json"
+        "path": "./themes/dark-reign-void.json"
       },      {
         "label": "Dark Reign Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-reign-red.json"
+        "path": "./themes/dark-reign-inferno.json"
       }
     ]
   },

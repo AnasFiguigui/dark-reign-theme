@@ -1,7 +1,12 @@
-
 # Dark Reign VS Code Theme
 
-## 1.0.0
+## 1.0.2
+
+### Added
+
+- Added two new themes: **Void** and **Inferno**.
+
+## 1.0.1
 
 ### Initial Release
 
