@@ -2,7 +2,7 @@
 
 A modern, high-contrast dark theme inspired by GitHub Dark, with personal customizations for a sleek coding experience.
 
-![Screenshot](images/Screenshot1.jpg)
+![Screenshot](images/Screenshots.gif)
 
 ## Features
 - True dark mode for comfortable coding
