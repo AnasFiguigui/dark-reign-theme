@@ -1,4 +1,11 @@
+
 # Dark Reign VS Code Theme
+
+## 1.0.3
+
+### Added
+
+- Added two new themes: **Emerald** and **Ocean**.
 
 ## 1.0.2
 

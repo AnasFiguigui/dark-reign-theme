@@ -1,8 +1,8 @@
 {
   "name": "dark-reign-theme",
-  "displayName": "Dark Reign Theme",
-  "description": "Dark Reign theme for VS Code",
-  "version": "1.0.2",
+  "displayName": "Dark Reign Themes",
+  "description": "Dark Reign themes for VS Code",
+  "version": "1.0.3",
   "publisher": "AnasFiguigui",
   "license": "MIT",
   "icon": "icon.png",
@@ -48,6 +48,16 @@
         "label": "Dark Reign - Inferno",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-reign-inferno.json"
+      },
+      {
+        "label": "Dark Reign - Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-reign-emerald.json"
+      },
+      {
+        "label": "Dark Reign - Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-reign-ocean.json"
       }
     ]
   },

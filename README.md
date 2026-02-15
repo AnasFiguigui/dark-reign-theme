@@ -9,7 +9,7 @@ A modern, high-contrast dark theme inspired by GitHub Dark, with personal custom
 - Enhanced syntax highlighting for readability
 - Minimal, distraction-free UI
 - Based on GitHub Dark, with unique tweaks
-- **Now includes two new themes: Void and Inferno**
+- **Now includes four new themes: Void, Inferno, Emerald, and Ocean**
 
 ## Installation
 
