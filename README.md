@@ -2,7 +2,7 @@
 
 A modern, high-contrast dark theme inspired by GitHub Dark, with personal customizations for a sleek coding experience.
 
-![Screenshot](images/Screenshots.gif)
+![Screenshot](https://raw.githubusercontent.com/AnasFiguigui/dark-reign-theme/main/images/screenshots.gif)
 
 ## Features
 - True dark mode for comfortable coding
