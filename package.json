@@ -36,7 +36,16 @@
       {
         "label": "Dark Reign",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-reign.json"
+        "path": "./themes/dark-reign-default.json"
+      },
+      {
+        "label": "Dark Reign Indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-reign-indigo.json"
+      },      {
+        "label": "Dark Reign Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-reign-red.json"
       }
     ]
   },
