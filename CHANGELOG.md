@@ -1,3 +1,13 @@
+# 1.1.0
+
+### Changed
+
+- Rewrote theme generation source code — no longer depends on `@primer/primitives` or `chroma-js` at build time.
+- Replaced complex light/dark primer-based color resolution with simple per-variant accent definitions.
+- All 6 themes (Default, Blossom, Void, Inferno, Emerald, Ocean) are now generated from a single shared base with variant-specific accents.
+- Hardcoded all base colors directly in source for full control and easier customization.
+- Simplified `src/index.js`, `src/colors.js`, and `src/theme.js`.
+
 # 1.0.4
 
 ### Changed
