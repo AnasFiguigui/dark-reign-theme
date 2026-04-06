@@ -25,7 +25,6 @@
   ],
   "keywords": [
     "theme",
-    "github",
     "dark",
     "reign",
     "night",
@@ -44,7 +43,8 @@
         "label": "Dark Reign - Void",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-reign-void.json"
-      },      {
+      },
+      {
         "label": "Dark Reign - Inferno",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-reign-inferno.json"
@@ -67,22 +67,12 @@
     ]
   },
   "devDependencies": {
-    "@changesets/changelog-github": "^0.4.1",
-    "@changesets/cli": "^2.17.0",
-    "@primer/primitives": "7.10.0",
-    "chroma-js": "^2.1.2",
-    "color": "^3.1.2",
     "nodemon": "^2.0.3",
     "vsce": "^1.100.1"
   },
   "scripts": {
     "start": "nodemon --watch src src/index.js",
-    "build": "node src/index.js && mkdir -p build",
-    "package": "vsce package -o ./build/dark-reign-theme.vsix",
-    "prepublishOnly": "npm run build && vsce publish",
-    "release": "changeset publish"
-  },
-  "publishConfig": {
-    "access": "public"
+    "build": "node src/index.js",
+    "package": "npm run build && vsce package -o ./build/dark-reign-theme.vsix"
   }
 }
