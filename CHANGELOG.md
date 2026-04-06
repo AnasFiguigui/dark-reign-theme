@@ -1,3 +1,13 @@
+# 1.2.0
+
+### Changed
+
+- Removed legacy Primer classic theme source code (`src/classic/`).
+- Removed unused Primer GitHub Actions workflows and templates (`.github/`, `.changeset/`).
+- Removed unused devDependencies: `@changesets/changelog-github`, `@changesets/cli`, `@primer/primitives`, `chroma-js`, `color`.
+- Cleaned up `package.json` scripts and `.vscodeignore`.
+- Updated README with all 6 theme variants and build instructions.
+
 # 1.1.0
 
 ### Changed
