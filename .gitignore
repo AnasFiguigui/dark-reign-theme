@@ -1,5 +1,2 @@
 .DS_Store
 node_modules/
-/themes/*
-!/themes/dark-anas.json
-package-lock.json
